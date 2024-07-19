@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         {
             if(Binding.name.text.toString().isEmpty())
             {
-                Toast.makeText(this,"Pleast enter the text",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,"RESPECTFIULLY BOL RAHA HU , BAHUT MEHNAT LAGI HAI , NAAM DAAL DE",Toast.LENGTH_SHORT).show()
             }
             else
             {
